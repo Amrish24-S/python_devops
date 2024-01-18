@@ -1,5 +1,4 @@
 import sys
-
 instance_Type = sys.argv[1]
 if instance_Type == "t2.micro":
     print("Only 1 cpu and 1 GB RAM")
