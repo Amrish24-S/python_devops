@@ -24,3 +24,4 @@ elif opp == "sub":
 else:
     out = mul(a, b)
     print(out)
+
